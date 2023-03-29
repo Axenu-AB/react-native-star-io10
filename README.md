@@ -10,6 +10,8 @@
 
 # react-native-star-io10
 
+Fork fixing building more modern versions of react native
+
 `react-native-star-io10` is a library for supporting application development for Star Micronics devices.
 
 This library is included in StarXpand SDK.
